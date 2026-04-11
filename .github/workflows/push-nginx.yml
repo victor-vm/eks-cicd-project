@@ -33,4 +33,4 @@ jobs:
 
     - name: Push Image
       run: |
-        docker push 222055803569.dkr.ecr.ap-south-1.amazonaws.com/image-repo:latest
+        docker push 222055803569.dkr.ecr.ap-south-1.amazonaws.com/nginx-repo:latest
